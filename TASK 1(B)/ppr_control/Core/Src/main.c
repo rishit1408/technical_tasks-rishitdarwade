@@ -1,3 +1,6 @@
+/*
+ * Author: Rishit Darwade
+ */
 
 #include "main.h"
 
