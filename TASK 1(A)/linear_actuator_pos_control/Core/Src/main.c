@@ -1,4 +1,7 @@
-/* Includes ------------------------------------------------------------------*/
+/*
+ * Author: Rishit Darwade
+ */
+
 #include "main.h"
 
 volatile float pwm;
