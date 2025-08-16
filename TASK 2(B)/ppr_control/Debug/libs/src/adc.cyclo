@@ -1,0 +1,4 @@
+../libs/src/adc.c:11:6:HAL_ADC_ConvCpltCallback	2
+../libs/src/adc.c:19:6:ADC_IRQHandler	2
+../libs/src/adc.c:27:6:adc_start	1
+../libs/src/adc.c:33:6:adc_init	2

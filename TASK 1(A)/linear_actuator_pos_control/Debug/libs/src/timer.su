@@ -1,0 +1,5 @@
+../libs/src/timer.c:19:6:timer_init	56	static
+../libs/src/timer.c:75:6:TIM2_IRQHandler	8	static
+../libs/src/timer.c:76:6:TIM3_IRQHandler	8	static
+../libs/src/timer.c:77:6:TIM4_IRQHandler	8	static
+../libs/src/timer.c:80:6:HAL_TIM_PeriodElapsedCallback	16	static

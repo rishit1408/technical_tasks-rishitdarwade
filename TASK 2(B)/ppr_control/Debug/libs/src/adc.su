@@ -1,0 +1,4 @@
+../libs/src/adc.c:11:6:HAL_ADC_ConvCpltCallback	16	static
+../libs/src/adc.c:19:6:ADC_IRQHandler	8	static
+../libs/src/adc.c:27:6:adc_start	16	static
+../libs/src/adc.c:33:6:adc_init	32	static
