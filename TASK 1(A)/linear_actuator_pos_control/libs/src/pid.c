@@ -1,3 +1,7 @@
+/*
+ * Author: Rishit Darwade
+ */
+
 #include "pid.h"
 
 static float g_kp = 0.0f, g_ki = 0.0f, g_kd = 0.0f;
